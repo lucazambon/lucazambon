@@ -17,8 +17,6 @@
 I am a Frontend Developer working from Italy.
 I'm 27 years old.
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
