@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img id="gif" src="https://media.giphy.com/media/AcQBDzT3hvA1dZFGG4/giphy.gif" width="200"/>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/zambonluca/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,14 +7,16 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  
-  <img id="views-counter" src="https://komarev.com/ghpvc/?username=lucazambon&style=flat-square&color=blue" alt=""/>
-
 </div>
 
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hey there, I'm Luca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 I am a Frontend Developer working from Italy.
 I'm 27 years old.
+
+- 🏳️‍🌈 He/Him
+- 👨‍💻 I'm working as a Senior Frontend Developer at Deltatre
+- ⚙️ I love to code in Vue, NodeJs
+- 🙏 You can sponsor my work on GitHub sponsors
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
