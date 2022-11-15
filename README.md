@@ -9,7 +9,7 @@
   </div>
 </div>
 
-## Hey there, I'm Luca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+## Hey there, I'm Luca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 I am a Frontend Developer working from Italy.
 I'm 27 years old.
 
