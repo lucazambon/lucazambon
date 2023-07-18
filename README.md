@@ -13,18 +13,27 @@
 I am a Frontend Developer working from Italy.
 I'm 27 years old.
 
-- 🏳️‍🌈 He/Him
-- 👨‍💻 I'm working as a Senior Frontend Developer at Deltatre
-- ⚙️ I love to code in Vue, NodeJs
-- 🙏 You can sponsor my work on GitHub sponsors
+👨‍💻 Passionate about crafting exceptional user experiences through frontend development.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-</div>
+📍 Rome, Italy 🇮🇹
+
+
+🔹 About Me 🔹
+
+Hi there! I'm Luca Zambon, a proactive and innovative Frontend Developer with a passion for building elegant and intuitive web interfaces. With 6+ years of experience in the industry, I thrive on creating seamless user experiences that blend creativity and technical excellence.
+
+
+🔹 Expertise 🔹
+
+🌟 Proficient in modern frontend technologies.
+
+🌟 Experience in optimizing web applications.
+
+🌟 Strong understanding of responsive web design.
+
+🌟 Familiarity with version control systems and agile development methodologies.
+
+
+🔹 What I Love 🔹
+
+I find joy in transforming ideas into reality and collaborating with like-minded individuals who share the same enthusiasm for innovation. My mission is to create digital experiences that leave a positive impact on users while continuously honing my skills in this ever-evolving industry.
